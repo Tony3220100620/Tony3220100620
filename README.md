@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tony, a student from Zhejiang University
-- 👀 I’m interested in STM32 and point cloud
-- 🌱 I’m currently learning STM32, point cloud library,and Raspberry Pi
+- 👀 I’m interested in embedded、control engineering and underwater robots
+- 🌱 I’m currently learning Qt and Linux
 - 💞️ I will appreciate it if you would give me a guidance on these fields
 - 📫 How to reach me：qianruweilan@qq.com, 3220100620@zju.edu.cn, heyining30@gmail.com
 - ⚡ Fun fact: By the way,I love Paris Saint German and Demon Slayer
